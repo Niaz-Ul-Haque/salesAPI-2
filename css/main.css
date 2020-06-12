@@ -1,1 +1,9 @@
-#sale-table tr:hover{ cursor:pointer; }
+#sale-table tr:hover{ 
+    cursor:pointer; 
+    
+}
+
+#sale-table tbody tr:hover{ 
+    cursor:pointer; 
+    background-color: gray;
+}
